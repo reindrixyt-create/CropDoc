@@ -1,0 +1,22 @@
+{
+  "short_name": "CropDoc",
+  "name": "CropDoc - Plant Disease AI Doctor",
+  "description": "AI-powered plant disease diagnostic tool for farmers with offline analysis.",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#15803d",
+  "theme_color": "#15803d",
+  "display": "standalone",
+  "orientation": "portrait"
+}
