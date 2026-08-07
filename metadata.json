@@ -1,0 +1,10 @@
+{
+  "name": "CropDoc",
+  "description": "AI-powered crop disease detection & treatment guide for farmers with camera diagnosis, multilingual support, and scan history.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
